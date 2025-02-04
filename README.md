@@ -1,2 +1,2 @@
 # Methanogenesis-Metabolic-Modelling-Project-
-Code for a metabolic model of a GAME hydrogenotrophic methanogenesis bioreactor 
+Code for a metabolic model of GAME hydrogenotrophic methanogenesis bioreactor 

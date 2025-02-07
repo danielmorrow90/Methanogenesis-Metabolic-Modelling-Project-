@@ -1,0 +1,1312 @@
+[
+  {
+    "Source": "Kotsyurbenko et al. 2001",
+    "Species": "MSB",
+    "Functional": "methanogen",
+    "Notes": "low temp 4-30C, sediment, spirillum-like shape",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "https://doi.org/10.1111/j.1574-6941.2001.tb00893.x",
+    "Species": "MSP",
+    "Functional": "methanogen",
+    "Notes": "low temp 4-30C, sediment, cocci",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium bakii",
+    "Functional": "acetogen",
+    "Notes": "low temp 4-30C",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "A. paludosum",
+    "Functional": "acetogen",
+    "Notes": "low temp 4-30C",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "A. fimetarium",
+    "Functional": "acetogen",
+    "Notes": "low temp 4-30C",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "A. tundrae",
+    "Functional": "acetogen",
+    "Notes": "low temp 4-30C",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Methanosarcina Barkeri",
+    "Functional": "methanogen",
+    "Notes": "mesophilic",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "Spyridonidis et al 2023",
+    "Species": "Methanobrevibacter sp.",
+    "Functional": "hydrogenotrophic methanogen",
+    "Notes": "mesophilic",
+    "": "",
+    "__1": "",
+    "Media": "protocol ATCC 2601",
+    "__2": ""
+  },
+  {
+    "Source": "https://doi.org/10.3390/su152115247",
+    "Species": "Sporomusa sp.",
+    "Functional": "homoacetogen",
+    "Notes": "can operate better than Clostridium and acetobacterium at lower H2 partial pressure",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Proteiniphilum sp.",
+    "Functional": "acetate oxidizer",
+    "Notes": "fermentative, but can also oxidize acetate, syntrophic acetate oxidizers",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella thermoacetica",
+    "Functional": "homoacetogen",
+    "Notes": "firmicutes, used to be previously known as Clostridium thermoaceticum",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Thermoanaerobacter kivui",
+    "Functional": "homoacetogen",
+    "Notes": "firmicutes",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium woodi",
+    "Functional": "homoacetogen",
+    "Notes": "firmicutes",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Methanosaeta sp.",
+    "Functional": "acetoclastic methanogen",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Candidatus Methanofastidiosum sp.",
+    "Functional": "methane via methylated thiol reduction",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Bathyarchaeia sp.",
+    "Functional": "fermenter",
+    "Notes": "fermentation of hemicellulose and cellulose",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "Karekar et al 2022",
+    "Species": "Acetobacterium",
+    "Functional": "",
+    "Notes": "there are 22 genera within which homoacetogens can be found",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "https://doi.org/10.3390/ microorganisms10020397",
+    "Species": "Clostridium",
+    "Functional": "",
+    "Notes": "acetyle-CoA synthase enzyme is flound in a lot of sulfate reducers, methanogens, hydrogenogens, as well as homoacetogens",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Morella",
+    "Functional": "",
+    "Notes": "homoacetogens can grow on hexoses, pentoses, alcohols, acids, formic acid, and methyl groups",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Eubacterium",
+    "Functional": "",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa",
+    "Functional": "",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus",
+    "Functional": "",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium aceticum",
+    "Functional": "homoacetogen",
+    "Notes": "mesophilic, spore-forming bacterium from mud",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium thermoaceticum",
+    "Functional": "homoacetogen",
+    "Notes": "from horse manure",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "C. thermoaceticum",
+    "Functional": "homoacetogen, uses H2 and CO2",
+    "Notes": "renamed Morella thermoacetica",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium scatologenes",
+    "Functional": "agetogen, uses h2 and CO2",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "Drake et al 2008",
+    "Species": "Acetogen",
+    "Functional": "Source of Isolate",
+    "Notes": "Gram Type",
+    "": "Cell Morphology",
+    "__1": "Growth Temperature",
+    "Media": "Date of Isolation; Investigator",
+    "__2": ""
+  },
+  {
+    "Source": "doi: 10.1196/annals.1419.016",
+    "Species": "Acetitomaculum ruminis",
+    "Functional": "Rumen fluid, steer",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1989; Greening and Leedle",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetoanaerobium noterae",
+    "Functional": "Sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1985; Sneath et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetoanaerobium romashkovii",
+    "Functional": "Oil field",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1992; Davydova-Charakhchyan et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium bakii",
+    "Functional": "Wastewater sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1995; Kotsyurbenko et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium carbinolicum",
+    "Functional": "Freshwater sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1984; Eichler and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium dehalogenans",
+    "Functional": "Sewage digester sludge",
+    "Notes": "+",
+    "": "Coccus",
+    "__1": "Mesophilic",
+    "Media": "1991; Traunecker et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium fimetarium",
+    "Functional": "Digested cattle manure",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1995; Kotsyurbenko et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium malicum",
+    "Functional": "Freshwater sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1988; Tanaka and Pfennig",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium paludosum",
+    "Functional": "Fen sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1995; Kotsyurbenko et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium psammolithicum",
+    "Functional": "Subsurface sandstone",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1999; Krumholz et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium tundrae",
+    "Functional": "Tundra soil",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "2000; Simankova et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium wieringae",
+    "Functional": "Sewage digester",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1982; Braun and Gottschalk",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium woodii",
+    "Functional": "Marine sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1977; Balch et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. AmMAn1",
+    "Functional": "Freshwater sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1991; Dörner and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. B10",
+    "Functional": "Wastewater pond",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1989; Sembiring and Winter",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. HA1",
+    "Functional": "Sewage sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1991; Schramm and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. HP4",
+    "Functional": "Lake sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1989; Conrad et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. KoB58",
+    "Functional": "Sewage sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1988; Wagener and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. LuPhet1",
+    "Functional": "Sewage sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1994; Frings and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. LuTria3",
+    "Functional": "Sewage sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1994; Frings et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. MrTac1",
+    "Functional": "Marine sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1987; Emde and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. OyTac1",
+    "Functional": "Freshwater sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1987; Emde and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. RMMac1",
+    "Functional": "Marine sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1990; Schuppert and Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp. 69",
+    "Functional": "Sea sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1992; Inoue et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetobacterium sp.",
+    "Functional": "Tundra wetland soil",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1996; Kotsyurbenko et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetohalobium arabaticum",
+    "Functional": "Saline lagoon",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1990; Zhilina and Zavarzin",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Acetonema longum",
+    "Functional": "Wood-eating termite, gut",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1991; Kane and Breznak",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Bryantella formatexigens",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2003; Wolin et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Butyribacterium methylotrophicum",
+    "Functional": "Sewage digester",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1980; Zeikus et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Caloramator fervidus (?)",
+    "Functional": "Hot spring",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1987; Patel et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium aceticum",
+    "Functional": "Soil",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1936; Wieringa",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium autoethanogenum",
+    "Functional": "Rabbit feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1994; Abrini et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium carboxidivorans",
+    "Functional": "Lagoon sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2005; Liou et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium coccoides",
+    "Functional": "Mice feces, human feces",
+    "Notes": "+",
+    "": "Coccoid rod",
+    "__1": "NR",
+    "Media": "1976; Kaneuchi et al.; Kamla et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium difficile AA1",
+    "Functional": "Rumen, newborn lamb",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1998; Rieu-Lesme et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium drakei",
+    "Functional": "Coal mine pond sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2000; Kusel et al., Liou et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium formicoaceticum",
+    "Functional": "Sewage",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1967; El Ghazzawi",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium glycolicum 22",
+    "Functional": "Sewage",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1977; Ohwaki and Hungate",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium glycolicum RD-1",
+    "Functional": "Sea-grass roots",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2001; Kusel et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium ljungdahlii",
+    "Functional": "Chicken waste",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1988; Barik et al., Tanner et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium magnum",
+    "Functional": "Freshwater sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1984; Schink",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium mayombei",
+    "Functional": "Soil-feeding termite, gut",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1991; Kane et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium methoxybenzovorans",
+    "Functional": "Olive oil mill wastewater",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1999; Mechichi et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium scatologenes",
+    "Functional": "Soil, coal mine pond sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1927; Weinberg and Ginsbourg; Kusel et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium ultunense",
+    "Functional": "Swine manure digester",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1996; Schnurer et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium sp. CV-AA1",
+    "Functional": "Sewage sludge",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1982; Adamse and Velzeboer",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium sp. M5a3",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al., Leclerc et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium sp. F5a15",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al., Leclerc et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium sp. Ag4f2",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Clostridium sp. TLN2",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccobacillus",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Eubacterium aggregans",
+    "Functional": "Olive oil mill wastewater",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1998; Mechichi et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Eubacterium limosum",
+    "Functional": "Rumen fluid, sheep",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1981; Sharak Genthner et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Holophaga foetida",
+    "Functional": "Freshwater ditch mud",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1992; Bak et al.; Liesack et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella glycerini",
+    "Functional": "Hot spring sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1997; Slobodkin et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella mulderi",
+    "Functional": "Bioreactor",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "2003; Balk et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella thermoacetica",
+    "Functional": "Horse manure, soil",
+    "Notes": "+/-",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1942; Fontaine et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella thermoautotrophica",
+    "Functional": "Hot spring",
+    "Notes": "+/-",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1981; Wiegel et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella sp. F21",
+    "Functional": "Soil",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "2003; Karita et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Moorella sp. HUC22-1",
+    "Functional": "Mud",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "2004; Sakai et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Natroniella acetigena",
+    "Functional": "Soda lake deposits",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1996; Zhilina et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Natronincola histidinovorans",
+    "Functional": "Soda lake deposits",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1998; Zhilina et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Oxobacter pfennigii",
+    "Functional": "Rumen fluid, steer",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1985; Krumholz and Bryant",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus hydrogenotrophicus",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccobacillus",
+    "__1": "Mesophilic",
+    "Media": "1996; Bernalier et al., Leclerc et al.",
+    "__2": "homoacetogen?"
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus productus U1",
+    "Functional": "Sewage digester",
+    "Notes": "+",
+    "": "Coccus",
+    "__1": "Mesophilic",
+    "Media": "1984; Lorowitz and Bryant",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus productus Marburg",
+    "Functional": "Sewage digester",
+    "Notes": "+",
+    "": "Coccus",
+    "__1": "Mesophilic",
+    "Media": "1987; Geerlings et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus schinkii",
+    "Functional": "Rumen, 3-day-old lamb",
+    "Notes": "+",
+    "": "Coccoid rod",
+    "__1": "Mesophilic",
+    "Media": "1996; Rieu-Lesme et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ruminococcus sp. TLF1",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccobacillus",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa acidovorans",
+    "Functional": "Distillation waste water",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1985: Olilivier et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa aerivorans",
+    "Functional": "Soil-eating termites, gut",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2003; Boga et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa malonica",
+    "Functional": "freshwater sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1989; Dehning et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa ovata",
+    "Functional": "silage",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1894; Möller et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa paucivorans",
+    "Functional": "lake sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1987; hermann et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa silvacetica",
+    "Functional": "beech forest soil",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1997; Kuhner et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa sphaeroides",
+    "Functional": "river mud",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1997; Möller et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa termitida",
+    "Functional": "Wood-eating termite, gut",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1988; Breznak et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa sp. DR6",
+    "Functional": "rice field soil",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1999; Rosencrantz et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Sporomusa sp. DR1/8",
+    "Functional": "rice field soil",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "NR",
+    "Media": "1999; Rosencrantz et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Syntrophococcus sucromutans",
+    "Functional": "Rumen fluid, steer",
+    "Notes": "-",
+    "": "Coccus",
+    "__1": "Mesophilic",
+    "Media": "1986; Krumholz and Bryant",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Thermoacetogenium phaeum",
+    "Functional": "Pulp wastewater reactor",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "2000; Hattori et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Thermoanaerobacter kivui",
+    "Functional": "Lake sediment",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1981; Leigh et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Tindallia californiensis",
+    "Functional": "Alkaline lake sediment",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "2003; Pikuta et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Treponema azotonutricium",
+    "Functional": "Termite hindgut",
+    "Notes": "NR",
+    "": "Spirochete",
+    "__1": "Mesophilic",
+    "Media": "1999; Leadbetter et al., Graber et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Treponema primitia",
+    "Functional": "Termite hindgut",
+    "Notes": "NR",
+    "": "Spirochete",
+    "__1": "Mesophilic",
+    "Media": "1999; Leadbetter et al., Graber et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Unclassified",
+    "Functional": "",
+    "Notes": "",
+    "": "",
+    "__1": "",
+    "Media": "",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "AG (?)",
+    "Functional": "Granular reactor sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1996; Davidova and Stams",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "AORT",
+    "Functional": "Thermophilic digester",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Thermophilic",
+    "Media": "1988; Lee and Zinder",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "CS1Van",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1993; Wolin and Miller",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "CS3Glu",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccoid rod",
+    "__1": "Mesophilic",
+    "Media": "1993; Wolin and Miller",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "CS7HH",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1993; Wolin and Miller",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "D",
+    "Functional": "Rumen fluid, deer",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1995; Rieu-Lesme et al",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "DMG58",
+    "Functional": "River mud",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1984; Moller et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "EE121",
+    "Functional": "Granular reactor sludge",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "NR",
+    "Media": "1990; Plugge et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "HA",
+    "Functional": "Horse feces",
+    "Notes": "-",
+    "": "Coccobacillus",
+    "__1": "NR",
+    "Media": "1995; Miller and Wolin",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "I52",
+    "Functional": "Human feces",
+    "Notes": "-",
+    "": "Coccoid rod",
+    "__1": "Mesophilic",
+    "Media": "1994; Wolin and Miller",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "S5a2",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccus",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al., Leclerc et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "Ser8",
+    "Functional": "Rumen, newborn lamb",
+    "Notes": "NR",
+    "": "NR",
+    "__1": "NR",
+    "Media": "1995; Chaucheyras et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "SS1",
+    "Functional": "Deep sediment (406-m)",
+    "Notes": "+",
+    "": "Oval rod",
+    "__1": "Mesophilic",
+    "Media": "1993; Liu and Suflita",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "TH-001",
+    "Functional": "Sewage sludge",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1985; Frazer and Young",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "VK64",
+    "Functional": "Human feces",
+    "Notes": "+",
+    "": "Coccus",
+    "__1": "NR",
+    "Media": "1996; Bernalier et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "X-8",
+    "Functional": "Vegetable wastewater",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1982; Samain et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "ZT",
+    "Functional": "Tundra soil",
+    "Notes": "+",
+    "": "Rod",
+    "__1": "Psychrotrophic",
+    "Media": "1992; Kotsyurbenko et al.; Nozhevnikova et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "417/2",
+    "Functional": "Oil field",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1992; Davydova-Charakhchyan et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "417/5",
+    "Functional": "Oil field",
+    "Notes": "-",
+    "": "Rod",
+    "__1": "Mesophilic",
+    "Media": "1992; Davydova-Charakhchyan et al.",
+    "__2": ""
+  },
+  {
+    "Source": "",
+    "Species": "New acetogenic bacterium",
+    "Functional": "Rumen, 15-hour-old lamb",
+    "Notes": "+",
+    "": "Coccoid rod",
+    "__1": "Mesophilic",
+    "Media": "1996; Rieu-Lesme et al.",
+    "__2": ""
+  }
+]

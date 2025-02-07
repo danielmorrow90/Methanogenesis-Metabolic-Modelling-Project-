@@ -1,0 +1,248 @@
+---
+title: "Example analysis"
+output:
+  html_document:
+    toc: yes
+    df_print: paged
+  html_notebook:
+    theme: spacelab
+    toc: yes
+    toc_float: yes
+---
+This notebook provides example code and suggestions for analyzing microbiome sequence data. You can perform similar analysis in Python using the QIIME Artifact API, but I am much more comfortable and familiar with R for any kind of data analysis and plotting. This is just a personal preference, as both programming languages and external packages can perform the same tasks. I use R because I find data manipulation with the dplyr package and plotting with the ggplot2 package to be much more intuitive than doing the same thing in Python.
+
+# Set up packages
+```{r message=FALSE, warning=FALSE}
+# required
+library(qiime2R)
+library(phyloseq)
+library(tidyverse)
+library(readxl)
+# optional
+library(MetBrewer) # fun color palettes
+```
+
+
+# Read in data
+I read in the QIIME artifacts as a phyloseq object. Phyloseq is an R package that has many convenient functions built in for manipulating and analyzing microbiome data. We will use the qiime2R package to import the QIIME data directly into a phyloseq object. 
+```{r}
+
+getwd() 
+
+ps <- qiime2R::qza_to_phyloseq(
+  features="C:/Users/danie/OneDrive/Desktop/GAME Sequencing/table_dada2.qza",
+  tree="C:/Users/danie/OneDrive/Desktop/GAME Sequencing/rooted_tree.qza",
+  taxonomy="C:/Users/danie/OneDrive/Desktop/GAME Sequencing/taxonomy.qza"
+)
+
+metadata <- read_excel("C:/Users/danie/OneDrive/Desktop/GAME Sequencing/GAME_Metadata.xlsx")
+
+head(metadata)
+```
+
+
+
+# Basic filtering and parsing
+I will do a bit of manipulation using phyloseq functions, then we will use the suite of tidyverse packages to do more data manipulation. Let's start with getting relative abundance data.
+
+```{r}
+# remove Mitochondria and Chloroplasts
+ps_filt <- phyloseq::subset_taxa(ps, ! Family %in% c("Mitochondria", "Chloroplast"))
+
+# remove unclassified sequences
+ps_filt <- phyloseq::subset_taxa(ps, Kingdom != "Unassigned")
+
+# relative abundance
+ps_rel <- phyloseq::transform_sample_counts(ps_filt, function(x) x*100/sum(x))
+
+```
+
+
+
+This chunk saves the taxonomy, metadata, and count tables as data frames. In these tables, each row is a unique ASV. The pipe operator %>% comes from the dplyr packages. 
+
+```{r}
+
+taxonomy <- as.data.frame(as.matrix(ps_rel@tax_table)) %>% 
+  rownames_to_column(var = "seq") # change the ASV ID to a column, not a row name
+
+head(taxonomy)
+
+table_rel <- as.data.frame(as.matrix(ps_rel@otu_table)) %>% 
+  rownames_to_column(var = "seq")
+
+head(table_rel)
+
+```
+
+This chunk manipulates the relative abundance table and combines it with the taxonomy table. We used the pivot_longer function to make this into a "long" dataframe, which is the desired format for using ggplot2. Read a bit more about long format here: http://eriqande.github.io/rep-res-web/lectures/ggplot_2_reshape_facets_stats.html. The long format will seem very chaotic, but I promise it will be extremely useful for plotting and data analysis tasks going forward.
+
+```{r}
+
+table_rel_long <- table_rel %>% 
+  pivot_longer(cols = !seq, names_to = "sample", values_to = "rel_ab") %>% # make a "long" dataframe
+  left_join(taxonomy, join_by(seq)) %>% # join taxonomy by the sequence ID
+  left_join(metadata, join_by(sample))
+
+
+head(table_rel_long)
+
+table1 <- table_rel_long %>%
+  filter(sample=="1AB") %>%
+  arrange(desc(rel_ab))
+
+head(table1)
+```
+
+
+
+
+# Subsetting and plotting
+We can use a variety of filtering functions from dplyr to manipulate data for more concise plots. For example, we could select specific bacteria to look for, or group all members of the same family or genus together. Let's do a simple example - we will plot the abundance of the genus Zoogleoa from each sampling location. First, let's see what the data looks like when we filter it to our specifications. 
+```{r}
+# Creating tables that show the change in abundance of diferent Genuses ?plura and phyla over samples. The Wahid paper I am using as a reference tracked the change in ASVs and phyla. I am doing Genus because many of the specific species do not have names in MIDAS, leading me to assume they are not fully characterized and have no different qualities than their genus. If a genus is shown to have variable capabilities depending on species, we can get more specific. 
+
+# Sorting the table first by sample and then in descending order of abundance for each present genus. I'm sure there is an easier and generalizable way to do this, but this is what I'm using for now. 
+
+  
+table_1_Genus <- table_rel_long %>%
+  filter(sample=="1AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_2_Genus <- table_rel_long %>%
+  filter(sample=="2AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_3_Genus <- table_rel_long %>%
+  filter(sample=="3AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_4_Genus <- table_rel_long %>%
+  filter(sample=="4AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_5_Genus <- table_rel_long %>%
+  filter(sample=="5AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_6_Genus <- table_rel_long %>%
+  filter(sample=="6AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_7_Genus <- table_rel_long %>%
+  filter(sample=="7AB") %>% 
+  group_by(sample,Genus) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+Genus_table <- bind_rows(table_1_Genus, table_2_Genus, table_3_Genus, table_4_Genus, table_5_Genus, table_6_Genus, table_7_Genus)
+  
+  
+# Now doing the same but tracking changes in phyla
+
+  
+table_1_P <- table_rel_long %>%
+  filter(sample=="1AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_2_P <- table_rel_long %>%
+  filter(sample=="2AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_3_P <- table_rel_long %>%
+  filter(sample=="3AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_4_P <- table_rel_long %>%
+  filter(sample=="4AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_5_P <- table_rel_long %>%
+  filter(sample=="5AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+  
+table_6_P <- table_rel_long %>%
+  filter(sample=="6AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+table_7_P <- table_rel_long %>%
+  filter(sample=="7AB") %>% 
+  group_by(sample,Phylum) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>%
+  filter(sum_ab != "0") %>%
+  arrange(desc(sum_ab))
+
+Phylum_table <- bind_rows(table_1_P, table_2_P, table_3_P, table_4_P, table_5_P, table_6_P, table_7_P)
+
+
+```
+We can save that table as a new R data frame, or we can pipe that data directly into a ggplot2 command. Notice that the timepoint column is the "character" class rather than a numeric class like a "double" Let's add a modification so the timepoint column is correctly classified.
+
+```{r}
+
+```
+Next, we can make a simple plot showing the Zoogloea abundance over time. Let's pipe the data directly into the ggplot command.
+
+```{r}
+table_rel_long %>% # perform some functions on table_rel
+  group_by(Genus, days) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>% 
+  filter(Genus == methanobrevibacter) %>% 
+  # pipe the data into the next line
+  ggplot(., aes(x = timepoint, y = sum_ab)) + # the period denotes that we want to use the data we piped in
+  geom_point()
+
+```
+
+This plot is okay, but we want to show the Zoogloea abundance from each sampling location, not all together. This is where the long data format comes in handy - we can easily tell ggplot2 that we want to change the aesthetics of the plot based on a column variable, in this case location.
+```{r}
+
+table_rel_long %>% # perform some functions
+  group_by(Genus,days) %>% 
+  summarise(sum_ab = sum(rel_ab)) %>% 
+  filter(Genus == "methanobrevibacter") %>% 
+  mutate(days = as.numeric(days)) %>% # pipe the data into the next line
+  ggplot(., aes(x = days, y = sum_ab) + # add color to the aesthetics
+  geom_point()
+
+```
+
+
+

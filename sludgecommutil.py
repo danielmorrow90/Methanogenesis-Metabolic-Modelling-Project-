@@ -10,7 +10,7 @@ from baseutil import *
 import hashlib
 from pandas import DataFrame, read_csv, concat, set_option
 from cobra.io import write_sbml_model, read_sbml_model
-
+import logging
 from cobrakbase.core.kbasefba import FBAModel
 from modelseedpy import MSPackageManager
 # from modelseedpy import AnnotationOntology, MSPackageManager, MSMedia, MSModelUtil, MSBuilder, MSATPCorrection, MSGapfill, MSGrowthPhenotype, MSGrowthPhenotypes, ModelSEEDBiochem
@@ -26,14 +26,12 @@ from modelseedpy.helpers import get_template
 
 class CliffCommUtil(BaseUtil):
     def __init__(self):
-        BaseUtil.__init__(self,"Cliff")
+        BaseUtil.__init__(self, "sludge")
         # self.msseedrecon()
     
     def load_function_data(self,small=True):
-        if small:
-            return json.load(open('data/annotation_ani_prob_gep_85.json'))
-        else:
-            return json.load(open('data/annotation_ani_prob_lo_70.json'))
+        if small:   return json.load(open('data/annotation_ani_prob_gep_85.json'))
+        else:       return json.load(open('data/annotation_ani_prob_lo_70.json'))
         
     def create_phenotypeset_from_compounds(
         self,

@@ -1,0 +1,8 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+7AB	/projects/p32400/game/rawreads/2350-22-7AB_S72_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-22-7AB_S72_L001_R2_001.fastq.gz
+6AB	/projects/p32400/game/rawreads/2350-21-6AB_S71_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-21-6AB_S71_L001_R2_001.fastq.gz
+5AB	/projects/p32400/game/rawreads/2350-20-5AB_S70_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-20-5AB_S70_L001_R2_001.fastq.gz
+4AB	/projects/p32400/game/rawreads/2350-19-4AB_S69_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-19-4AB_S69_L001_R2_001.fastq.gz
+3AB	/projects/p32400/game/rawreads/2350-18-3AB_S68_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-18-3AB_S68_L001_R2_001.fastq.gz
+2AB	/projects/p32400/game/rawreads/2350-17-2AB_S67_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-17-2AB_S67_L001_R2_001.fastq.gz
+1AB	/projects/p32400/game/rawreads/2350-16-1AB_S66_L001_R1_001.fastq.gz	/projects/p32400/game/rawreads/2350-16-1AB_S66_L001_R2_001.fastq.gz

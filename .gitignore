@@ -2,3 +2,5 @@ alignments/Midas_sludge_alignment_scores.csv
 data/functions.json
 data/feature_aliases.json
 DADA2_taxonomy.fa MiDAS 5.3.fa
+qiime2_files.zip
+qiime2_files/reads.zip

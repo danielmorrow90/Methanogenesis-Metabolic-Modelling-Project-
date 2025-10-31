@@ -2,6 +2,8 @@ alignments/Midas_sludge_alignment_scores.csv
 data/functions.json
 data/feature_aliases.json
 data/genome_metadata/*
+data/genomes/*
+data/genome_objects/*
 datacache/Assemblies/*
 DADA2_taxonomy.fa MiDAS 5.3.fa
 qiime2_files.zip

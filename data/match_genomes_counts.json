@@ -1,0 +1,958 @@
+{
+    "67-14": {
+        "Solirubrobacteraceae": 4,
+        "Enterobacteriaceae": 3,
+        "70-9": 2,
+        "Frankiaceae": 1,
+        "Ktedonobacteraceae": 1
+    },
+    "A4b": {
+        "Phototrophicaceae": 3,
+        "Anaerolineaceae": 1,
+        "Enterobacteriaceae": 1,
+        "Promineofilaceae": 1
+    },
+    "Actinomycetaceae": {
+        "Actinomycetaceae": 18,
+        "Mycobacteriaceae": 8
+    },
+    "Alcaligenaceae": {
+        "Burkholderiaceae_C": 100,
+        "Enterobacteriaceae": 3
+    },
+    "Alkaliphilus": {
+        "Natronincolaceae": 6,
+        "Proteiniboraceae": 2,
+        "Caminicellaceae": 1,
+        "Mycobacteriaceae": 1
+    },
+    "Anaerolineaceae": {
+        "Anaerolineaceae": 13,
+        "Enterobacteriaceae": 4,
+        "EnvOPS12": 2,
+        "Lachnospiraceae": 1,
+        "Pelotomaculaceae": 1,
+        "UBA4823": 1
+    },
+    "Anaerovoracaceae": {
+        "Anaerovoracaceae": 32,
+        "Enterobacteriaceae": 16,
+        "Mycobacteriaceae": 1
+    },
+    "Arcobacteraceae": {
+        "Arcobacteraceae": 4,
+        "Coxiellaceae": 1,
+        "Enterobacteriaceae": 1
+    },
+    "Bacillaceae": {
+        "Bacillaceae": 70,
+        "Bacillaceae_I": 10,
+        "Massilibacteriaceae": 10,
+        "Peptostreptococcaceae": 10,
+        "Planococcaceae": 9,
+        "Bacillaceae_D": 8,
+        "Staphylococcaceae": 8,
+        "Bacillaceae_G": 7,
+        "Fictibacillaceae": 7,
+        "Salisediminibacteriaceae": 7,
+        "Bacillaceae_J": 6,
+        "Bacillaceae_F": 4,
+        "Domibacillaceae": 4,
+        "Flavobacteriaceae": 4,
+        "SA5d-4": 4,
+        "Bacillaceae_C": 2,
+        "Halobacillaceae": 2,
+        "Streptococcaceae": 2,
+        "Alkalibacillaceae": 1,
+        "Bacillaceae_B": 1,
+        "DSM-18226": 1,
+        "JCM-10596": 1,
+        "Microbacteriaceae": 1,
+        "Mycobacteriaceae": 1,
+        "Nanosyncoccaceae": 1,
+        "Rubeoparvulaceae": 1
+    },
+    "Bacteroidaceae": {
+        "Bacteroidaceae": 28,
+        "Enterobacteriaceae": 10,
+        "CAG-239": 2
+    },
+    "Bacteroidetes_vadinHA17": {
+        "Enterobacteriaceae": 3,
+        "VadinHA17": 2,
+        "F082": 1,
+        "UBA10428": 1
+    },
+    "Beijerinckiaceae": {
+        "Beijerinckiaceae": 53,
+        "Mycobacteriaceae": 1
+    },
+    "Butyricicoccaceae": {
+        "Butyricicoccaceae": 9,
+        "Oscillospiraceae": 4
+    },
+    "Ca_Phosphitivoracaceae": {
+        "Enterobacteriaceae": 4,
+        "Desulfatiglandaceae": 3,
+        "Desulfonatronovibrionaceae": 3,
+        "Desulfosarcinaceae": 3,
+        "Desulfovibrionaceae": 2,
+        "C00003060": 1,
+        "Deferrimicrobiaceae": 1,
+        "HGW-15": 1,
+        "Haliangiaceae": 1,
+        "JdFR-97": 1,
+        "Natranaerobiaceae": 1,
+        "RBG-16-64-13": 1,
+        "SMWR01": 1,
+        "Syntrophaceae": 1,
+        "UBA1062": 1,
+        "UBA5619": 1
+    },
+    "Caldatribacteriaceae": {
+        "34-128": 5,
+        "Caldatribacteriaceae": 2,
+        "Atribacteraceae": 1,
+        "Enterobacteriaceae": 1
+    },
+    "Caloramatoraceae": {
+        "Caloramatoraceae": 13,
+        "Mycobacteriaceae": 2,
+        "Clostridiaceae": 1
+    },
+    "Caulobacteraceae": {
+        "Caulobacteraceae": 15,
+        "Streptomycetaceae": 2
+    },
+    "Chitinophagaceae": {
+        "Chitinophagaceae": 18,
+        "Bdellovibrionaceae": 1
+    },
+    "Christensenellaceae": {
+        "Clostridiaceae": 50,
+        "CAG-138": 29,
+        "CAG-74": 21,
+        "Muribaculaceae": 11,
+        "GCA-900066905": 10,
+        "Acutalibacteraceae": 8,
+        "Bacteroidaceae": 8,
+        "Acetivibrionaceae": 5,
+        "Christensenellaceae": 3,
+        "Nanosynbacteraceae": 3,
+        "DSM-27016": 2,
+        "Syntrophobotulaceae": 2,
+        "Butyricicoccaceae": 1,
+        "Mycobacteriaceae": 1,
+        "SK-Y3": 1,
+        "Xylanivirgaceae": 1
+    },
+    "Cloacimonadaceae": {
+        "Cloacimonadaceae": 15,
+        "Enterobacteriaceae": 10
+    },
+    "Clostridiaceae": {
+        "Clostridiaceae": 91,
+        "Enterobacteriaceae": 2,
+        "Ruminococcaceae": 1
+    },
+    "Comamonadaceae": {
+        "Burkholderiaceae_B": 103,
+        "Enterobacteriaceae": 8,
+        "Anaplasmataceae": 3,
+        "BM103": 2,
+        "Pyrinomonadaceae": 2
+    },
+    "Corynebacteriaceae": {
+        "Mycobacteriaceae": 35
+    },
+    "Cyclobacteriaceae": {
+        "Cyclobacteriaceae": 5
+    },
+    "Desulfitibacteraceae": {
+        "Moorellaceae": 3,
+        "DTU052": 1,
+        "Desulfitibacteraceae": 1
+    },
+    "Desulfitobacteriaceae": {
+        "Desulfitobacteriaceae": 12,
+        "Mycobacteriaceae": 1
+    },
+    "Desulfobulbaceae": {
+        "Desulfobulbaceae": 15
+    },
+    "Desulfococcaceae": {
+        "Desulfococcaceae": 3,
+        "Desulforegulaceae": 2,
+        "Desulfatibacillaceae": 1,
+        "Desulfosarcinaceae": 1
+    },
+    "Desulfomicrobiaceae": {
+        "Desulfovibrionaceae": 6,
+        "Desulfomicrobiaceae": 2
+    },
+    "Desulfovibrionaceae": {
+        "Desulfovibrionaceae": 44,
+        "UBA9219": 1
+    },
+    "Desulfurisporaceae": {
+        "Desulfallaceae": 3,
+        "Desulfocucumaceae": 2,
+        "Desulfofarciminaceae": 1,
+        "Desulfohalotomaculaceae": 1
+    },
+    "Desulfuromonadaceae": {
+        "Syntrophotaleaceae": 5,
+        "DDH964": 3,
+        "Desulfuromonadaceae": 3,
+        "SZUA-540": 3,
+        "Trichloromonadaceae": 3,
+        "WTL": 3,
+        "Geothermobacteraceae": 2,
+        "Pseudopelobacteraceae": 1
+    },
+    "Dethiobacteraceae": {
+        "Moorellaceae": 28,
+        "Dethiobacteraceae": 11,
+        "Natranaerobiaceae": 8,
+        "DTU012": 5,
+        "UBA8154": 5,
+        "PUMD01": 4,
+        "Caloramatoraceae": 2,
+        "DSM-8532": 2,
+        "Desulfitobacteriaceae": 2,
+        "PWGO01": 2,
+        "SLMV01": 2,
+        "VEMY01": 2,
+        "Xylanivirgaceae": 2,
+        "Acetivibrionaceae": 1,
+        "Acidobacteriaceae": 1,
+        "Caldicoprobacteraceae": 1,
+        "DTU015": 1,
+        "Sporomusaceae": 1,
+        "Syntrophobotulaceae": 1,
+        "Thermoanaerobacteraceae": 1,
+        "UBA994": 1
+    },
+    "Dysgonomonadaceae": {
+        "Dysgonomonadaceae": 84,
+        "Enterobacteriaceae": 8
+    },
+    "Enterobacteriaceae": {
+        "Enterobacteriaceae": 503,
+        "Anaplasmataceae": 3,
+        "Moraxellaceae": 3
+    },
+    "Enterococcaceae": {
+        "Enterococcaceae": 229,
+        "Carnobacteriaceae": 3,
+        "Mycobacteriaceae": 3,
+        "Vibrionaceae": 3,
+        "Streptococcaceae": 2,
+        "Vagococcaceae": 1
+    },
+    "Erysipelotrichaceae": {
+        "Erysipelotrichaceae": 40,
+        "Bacillaceae_G": 12,
+        "Bacteroidaceae": 2,
+        "CAG-138": 2,
+        "Enterobacteriaceae": 2,
+        "Turicibacteraceae": 1
+    },
+    "Eubacteriaceae": {
+        "Eubacteriaceae": 17
+    },
+    "Family_XI": {
+        "Tissierellaceae": 17,
+        "Sporanaerobacteraceae": 12,
+        "Tissierellaceae_A": 5,
+        "Tissierellaceae_C": 4,
+        "Tepidimicrobiaceae": 3,
+        "MCWD3": 1
+    },
+    "Geobacteraceae": {
+        "Geobacteraceae": 6,
+        "Enterobacteriaceae": 1,
+        "Geobacteraceae_A": 1,
+        "Rhodocyclaceae": 1
+    },
+    "Gottschalkia": {
+        "Gottschalkiaceae": 3,
+        "Natronincolaceae": 1,
+        "Tissierellaceae_C": 1
+    },
+    "Gracilibacter": {
+        "DSM-2933": 5,
+        "Lutisporaceae": 5,
+        "Mycobacteriaceae": 5,
+        "Syntrophobotulaceae": 5,
+        "Xanthobacteraceae": 5,
+        "DSM-27016": 3,
+        "SK-Y3": 3,
+        "Acetivibrionaceae": 1
+    },
+    "Halobacteroidaceae": {
+        "Halanaerobiaceae": 5,
+        "Enterobacteriaceae": 4,
+        "DTU029": 2,
+        "Desulfallaceae": 2,
+        "Aquicultoraceae": 1,
+        "BH030062": 1,
+        "Bacteroidaceae": 1,
+        "DTU014": 1,
+        "Desulfitobacteriaceae": 1,
+        "Halothermotrichaceae": 1,
+        "Marinococcaceae": 1,
+        "Rubeoparvulaceae": 1,
+        "Tepidibacillaceae": 1,
+        "VEMY01": 1
+    },
+    "Hungateiclostridiaceae": {
+        "DSM-27016": 27,
+        "Acetivibrionaceae": 18,
+        "Fastidiosipilaceae": 8,
+        "Saccharofermentanaceae": 8,
+        "DSM-8532": 5,
+        "Enterobacteriaceae": 4,
+        "QPJT01": 4,
+        "UBA5734": 4,
+        "Brocadiaceae": 3,
+        "DTU023": 1,
+        "Monoglobaceae": 1,
+        "Sphaerochaetaceae": 1,
+        "Syntrophobotulaceae": 1
+    },
+    "Hydrogenedensaceae": {
+        "SLHB01": 3,
+        "CAITNO01": 2,
+        "Hydrogenedentaceae": 1
+    },
+    "Hydrogenoanaerobacterium": {
+        "Ruminococcaceae": 14
+    },
+    "Hydrogenophilaceae": {
+        "Thiobacillaceae": 3,
+        "Enterobacteriaceae": 2
+    },
+    "Hyphomonadaceae": {
+        "Hyphomonadaceae": 8,
+        "Nostocaceae": 1
+    },
+    "JG30-KF-CM45": {
+        "Thermomicrobiaceae": 4,
+        "Enterobacteriaceae": 2,
+        "FW602-bin16": 1
+    },
+    "Kosmotogaceae": {
+        "Kosmotogaceae": 4,
+        "Enterobacteriaceae": 1
+    },
+    "Lachnospiraceae": {
+        "Lachnospiraceae": 84,
+        "Anaerotignaceae": 8,
+        "Cellulosilyticaceae": 4,
+        "Enterobacteriaceae": 4,
+        "Vallitaleaceae": 4,
+        "Defluviitaleaceae": 2,
+        "Mycobacteriaceae": 2,
+        "Acidaminococcaceae": 1,
+        "Vallitaleaceae_A": 1
+    },
+    "Lentimicrobiaceae": {
+        "Enterobacteriaceae": 38,
+        "Lentimicrobiaceae": 9,
+        "DTU049": 1,
+        "GCA-2711565": 1,
+        "OLB10": 1,
+        "Sphingobacteriaceae": 1
+    },
+    "Leptospiraceae": {
+        "DSM-27016": 5,
+        "Acetivibrionaceae": 1,
+        "DSM-2933": 1,
+        "Enterobacteriaceae": 1,
+        "GCA-900066905": 1,
+        "QPJT01": 1,
+        "UBA5368": 1,
+        "UBA5550": 1,
+        "Vallitaleaceae": 1
+    },
+    "Limnochordaceae": {
+        "Desulfotomaculaceae": 4,
+        "Enterobacteriaceae": 4,
+        "Caldalkalibacillaceae": 2,
+        "DTU015": 2,
+        "Limnochordaceae": 2,
+        "Streptosporangiaceae": 2,
+        "40CM-4-68-19": 1,
+        "DTU012": 1,
+        "Dormibacteraceae": 1,
+        "Gp22-AA2": 1,
+        "Lutisporaceae": 1,
+        "PUMD01": 1,
+        "Polarisedimenticolaceae": 1,
+        "Thermoactinomycetaceae": 1,
+        "UBA8346": 1
+    },
+    "Lutispora": {
+        "DSM-2933": 11,
+        "DSM-27016": 6,
+        "Enterobacteriaceae": 4,
+        "Lutisporaceae": 4,
+        "Mycobacteriaceae": 4,
+        "Syntrophobotulaceae": 4,
+        "Xanthobacteraceae": 3,
+        "Monoglobaceae": 1
+    },
+    "Marinilabiliaceae": {
+        "Marinilabiliaceae": 12
+    },
+    "Methanobacteriaceae": {
+        "Methanobacteriaceae": 159,
+        "UBA233": 16,
+        "Enterobacteriaceae": 14
+    },
+    "Methanomassiliicoccaceae": {
+        "Methanomassiliicoccaceae": 6
+    },
+    "Methanomicrobiaceae": {
+        "Methanoculleaceae": 5
+    },
+    "Methanosaetaceae": {
+        "Methanotrichaceae": 4,
+        "Enterobacteriaceae": 1
+    },
+    "Methanosarcinaceae": {
+        "Methanosarcinaceae": 26
+    },
+    "Microbacteriaceae": {
+        "Microbacteriaceae": 28,
+        "": 1,
+        "Burkholderiaceae_C": 1,
+        "Streptococcaceae": 1
+    },
+    "Microtrichaceae": {
+        "Anaplasmataceae": 2,
+        "Microtrichaceae": 2,
+        "Mycobacteriaceae": 1,
+        "UBA8190": 1
+    },
+    "Monoglobaceae": {
+        "Acetivibrionaceae": 6,
+        "SK-Y3": 6,
+        "DSM-27016": 5,
+        "DSM-8532": 3,
+        "Monoglobaceae": 3,
+        "Sphaerochaetaceae": 2,
+        "Brocadiaceae": 1,
+        "QPJT01": 1
+    },
+    "Moraxellaceae": {
+        "Moraxellaceae": 53,
+        "Anaplasmataceae": 1
+    },
+    "Mycobacteriaceae": {
+        "Mycobacteriaceae": 21
+    },
+    "Nocardiaceae": {
+        "Mycobacteriaceae": 48
+    },
+    "Oscillospiraceae": {
+        "Oscillospiraceae": 112,
+        "Enterobacteriaceae": 7,
+        "Ruminococcaceae": 5,
+        "Butyricicoccaceae": 2,
+        "CAG-508": 1
+    },
+    "Oxobacteraceae": {
+        "Clostridiaceae": 13,
+        "Caloramatoraceae": 3,
+        "Enterobacteriaceae": 2,
+        "Vallitaleaceae": 2,
+        "Alkalibacteraceae": 1,
+        "Lutisporaceae": 1,
+        "Mycobacteriaceae": 1,
+        "Oxobacteraceae": 1,
+        "Syntrophobotulaceae": 1,
+        "Thermohalobacteraceae": 1,
+        "UBA994": 1,
+        "Vallitaleaceae_A": 1
+    },
+    "Paludibacteraceae": {
+        "Paludibacteraceae": 14,
+        "Enterobacteriaceae": 6
+    },
+    "Parvibaculaceae": {
+        "Parvibaculaceae": 4,
+        "Stappiaceae": 2,
+        "Aerococcaceae": 1,
+        "Enterobacteriaceae": 1
+    },
+    "Pelotomaculaceae": {
+        "Pelotomaculaceae": 8,
+        "Thermincolaceae": 2
+    },
+    "Peptococcaceae": {
+        "Alkalibacteraceae": 6,
+        "Dehalobacteriaceae": 6,
+        "Desulfitobacteriaceae": 5,
+        "Acidobacteriaceae": 3,
+        "Desulfonisporaceae": 2,
+        "Kosmotogaceae": 2,
+        "UBA4068": 2,
+        "Eubacteriaceae": 1,
+        "Thermincolaceae": 1
+    },
+    "Peptostreptococcaceae": {
+        "Peptostreptococcaceae": 60,
+        "Natronincolaceae": 7,
+        "CAG-239": 3,
+        "Filifactoraceae": 3,
+        "Anaerovoracaceae": 2,
+        "Lachnospiraceae": 2,
+        "Mycobacteriaceae": 2,
+        "Nanosyncoccaceae": 2,
+        "Tindalliaceae": 2,
+        "Bacteroidaceae": 1
+    },
+    "Pirellulaceae": {
+        "Lacipirellulaceae": 8,
+        "UBA1268": 4,
+        "Enterobacteriaceae": 2,
+        "Thermoguttaceae": 2,
+        "Pirellulaceae": 1,
+        "UBA7805": 1
+    },
+    "Planococcaceae": {
+        "Planococcaceae": 6,
+        "Streptococcaceae": 1
+    },
+    "Prolixibacteraceae": {
+        "Prolixibacteraceae": 16,
+        "Enterobacteriaceae": 8,
+        "VadinHA17": 2,
+        "SB21": 1
+    },
+    "Propionibacteriaceae": {
+        "Nocardioidaceae": 20,
+        "Streptomycetaceae": 11,
+        "Pseudonocardiaceae": 10,
+        "S36-B12": 3,
+        "Enterobacteriaceae": 2,
+        "Acidothermaceae": 1,
+        "Actinopolymorphaceae": 1,
+        "Cyanobiaceae": 1,
+        "Kribbellaceae": 1,
+        "Nakamurellaceae": 1
+    },
+    "Proteiniboraceae": {
+        "Natronincolaceae": 3,
+        "Proteiniboraceae": 2
+    },
+    "Pseudomonadaceae": {
+        "Pseudomonadaceae": 85,
+        "Enterobacteriaceae": 1,
+        "Mycobacteriaceae": 1
+    },
+    "Rhizobiaceae": {
+        "Rhizobiaceae": 68
+    },
+    "Rhodobacteraceae": {
+        "Rhodobacteraceae": 62,
+        "Rhizobiaceae": 46,
+        "Beijerinckiaceae": 12,
+        "Xanthobacteraceae": 4,
+        "Enterobacteriaceae": 3,
+        "Hyphomicrobiaceae": 2,
+        "Stappiaceae": 2,
+        "Aestuariivirgaceae": 1,
+        "Amorphaceae": 1,
+        "CAIRTM01": 1,
+        "Devosiaceae": 1,
+        "Im1": 1,
+        "Nostocaceae": 1,
+        "Pseudomonadaceae": 1,
+        "Thermopetrobacteraceae": 1
+    },
+    "Rhodocyclaceae": {
+        "Rhodocyclaceae": 44,
+        "Enterobacteriaceae": 3
+    },
+    "Rikenellaceae": {
+        "UBA932": 31,
+        "Enterobacteriaceae": 11
+    },
+    "Ruminococcaceae": {
+        "Ruminococcaceae": 52,
+        "Acutalibacteraceae": 26,
+        "Enterobacteriaceae": 5,
+        "Acidaminococcaceae": 1,
+        "DSM-8532": 1
+    },
+    "SRB2": {
+        "Acetivibrionaceae": 12,
+        "DSM-27016": 6,
+        "Desulfofarciminaceae": 6,
+        "Syntrophobotulaceae": 5,
+        "Desulfohalotomaculaceae": 4,
+        "SK-Y3": 3,
+        "Xanthobacteraceae": 3,
+        "Lutisporaceae": 2,
+        "QPJT01": 2,
+        "Oxobacteraceae": 1,
+        "UBA994": 1
+    },
+    "Sedimentibacteraceae": {
+        "Alkalibacteraceae": 9,
+        "Thermohalobacteraceae": 8,
+        "Dethiosulfatibacteraceae": 7,
+        "Gottschalkiaceae": 7,
+        "Syntrophobotulaceae": 7,
+        "Tindalliaceae": 7,
+        "Natronincolaceae": 3,
+        "Garciellaceae": 2,
+        "Tissierellaceae": 2,
+        "Mycobacteriaceae": 1,
+        "Peptoniphilaceae": 1,
+        "Proteiniboraceae": 1,
+        "Tepidimicrobiaceae": 1,
+        "Tissierellaceae_C": 1,
+        "UBA994": 1
+    },
+    "Serpentinicella": {
+        "Natronincolaceae": 17,
+        "Mycobacteriaceae": 2,
+        "Thermotaleaceae": 2,
+        "Tindalliaceae": 1
+    },
+    "Smithellaceae": {
+        "Smithellaceae": 4,
+        "Enterobacteriaceae": 2
+    },
+    "Solirubrobacteraceae": {
+        "Solirubrobacteraceae": 3,
+        "Chitinophagaceae": 1,
+        "Enterobacteriaceae": 1
+    },
+    "Sphingomonadaceae": {
+        "Sphingomonadaceae": 30,
+        "Rhodocyclaceae": 5
+    },
+    "Spirochaetaceae": {
+        "Sphaerochaetaceae": 17,
+        "Enterobacteriaceae": 4,
+        "Sediminispirochaetaceae": 2,
+        "DSM-8902": 1,
+        "Marispirochaetaceae": 1
+    },
+    "Sporomusaceae": {
+        "Mycobacteriaceae": 5,
+        "DSM-13327": 3,
+        "Dendrosporobacteraceae": 2,
+        "Acetonemaceae": 1
+    },
+    "Stappiaceae": {
+        "Stappiaceae": 10
+    },
+    "Sulfurospirillaceae": {
+        "Sulfurospirillaceae": 10,
+        "Enterobacteriaceae": 2
+    },
+    "Synergistaceae": {
+        "Aminobacteriaceae": 45,
+        "Enterobacteriaceae": 34,
+        "Synergistaceae": 13,
+        "Aminiphilaceae": 9,
+        "Thermovirgaceae": 8,
+        "Dysgonomonadaceae": 7,
+        "79-D21": 4,
+        "Acetomicrobiaceae": 4,
+        "DSM-22653": 2,
+        "BM520": 1,
+        "Gp22-AA2": 1,
+        "Halothermotrichaceae": 1,
+        "Streptosporangiaceae": 1,
+        "Thermacetogeniaceae": 1,
+        "Thermoactinomycetaceae": 1,
+        "UBA6911": 1
+    },
+    "Syntrophobacteraceae": {
+        "Syntrophobacteraceae": 3,
+        "DSM-9756": 1,
+        "Enterobacteriaceae": 1
+    },
+    "Syntrophobotulaceae": {
+        "Desulfitobacteriaceae": 6,
+        "Syntrophobotulaceae": 3,
+        "Mycobacteriaceae": 1
+    },
+    "Syntrophomonadaceae": {
+        "Syntrophomonadaceae": 7,
+        "Enterobacteriaceae": 2,
+        "PH28-bin88": 2
+    },
+    "Syntrophorhabdaceae": {
+        "Deferrimicrobiaceae": 1,
+        "Enterobacteriaceae": 1,
+        "Syntrophorhabdaceae": 1,
+        "UBA9637": 1,
+        "YD0425bin50": 1
+    },
+    "UCG-010": {
+        "Ruminococcaceae": 4,
+        "UBA932": 3,
+        "CAG-138": 2,
+        "CAG-272": 2,
+        "CAG-382": 1,
+        "Oscillospiraceae": 1,
+        "Selenomonadaceae": 1,
+        "WRJC01": 1
+    },
+    "Weeksellaceae": {
+        "Weeksellaceae": 12
+    },
+    "Xanthobacteraceae": {
+        "Xanthobacteraceae": 19,
+        "Enterobacteriaceae": 3,
+        "Mycobacteriaceae": 2
+    },
+    "Xanthomonadaceae": {
+        "Xanthomonadaceae": 34,
+        "Enterobacteriaceae": 1,
+        "Pseudomonadaceae": 1
+    },
+    "midas_f_112": {
+        "Sporanaerobacteraceae": 3,
+        "DTU012": 2,
+        "Xylanivirgaceae": 2,
+        "Caldicoprobacteraceae": 1,
+        "Dethiobacteraceae": 1,
+        "Syntrophobotulaceae": 1
+    },
+    "midas_f_1469": {
+        "Enterobacteriaceae": 8,
+        "Aggregatilineaceae": 2,
+        "Anaerolineaceae": 2,
+        "DRKV01": 1,
+        "Phototrophicaceae": 1,
+        "Promineofilaceae": 1,
+        "UBA4823": 1
+    },
+    "midas_f_148": {
+        "DTU015": 1,
+        "Dormibacteraceae": 1,
+        "Enterobacteriaceae": 1,
+        "Lutisporaceae": 1,
+        "Syntrophobotulaceae": 1,
+        "WHTK01": 1
+    },
+    "midas_f_16343": {
+        "CAG-313": 6,
+        "Izemoplasmataceae": 5,
+        "UBA2268": 2,
+        "Haloplasmataceae": 1
+    },
+    "midas_f_1770": {
+        "Caldatribacteriaceae": 2,
+        "Acutalibacteraceae": 1,
+        "Bacteroidaceae": 1,
+        "Burkholderiaceae_B": 1,
+        "Calderihabitantaceae": 1,
+        "Enterobacteriaceae": 1,
+        "Syntrophomonadaceae": 1,
+        "Thermincolaceae": 1,
+        "UBA2595": 1,
+        "UBA3569": 1,
+        "Xenobiaceae": 1
+    },
+    "midas_f_1799": {
+        "Mycobacteriaceae": 5,
+        "Dethiobacteraceae": 3,
+        "VEMY01": 3,
+        "DTU015": 2,
+        "Desulfonisporaceae": 2,
+        "Enterobacteriaceae": 2,
+        "Christensenellaceae": 1,
+        "Proteinivoraceae": 1,
+        "Syntrophobotulaceae": 1
+    },
+    "midas_f_1979": {
+        "Enterobacteriaceae": 8,
+        "DSM-8532": 3,
+        "Brocadiaceae": 2,
+        "DTU012": 2,
+        "Dethiobacteraceae": 2,
+        "Lutisporaceae": 2,
+        "Mycobacteriaceae": 2,
+        "Syntrophobotulaceae": 2,
+        "DSM-2933": 1,
+        "DTU052": 1,
+        "Monoglobaceae": 1,
+        "Moorellaceae": 1,
+        "QAMH01": 1,
+        "Rubeoparvulaceae": 1,
+        "VEMY01": 1,
+        "Xanthobacteraceae": 1
+    },
+    "midas_f_222": {
+        "DSM-8532": 2,
+        "Enterobacteriaceae": 1,
+        "Moorellaceae": 1,
+        "SK-Y3": 1
+    },
+    "midas_f_2296": {
+        "Enterobacteriaceae": 20,
+        "UBA5352": 6,
+        "B3-LCP": 5,
+        "AA152": 2,
+        "PUMD01": 2,
+        "QQVD01": 2,
+        "RBG-16-71-46": 2,
+        "2-02-FULL-35-15": 1,
+        "BMS3ABIN01": 1,
+        "CG2-30-70-394": 1,
+        "CSP1-5": 1,
+        "DY22613": 1,
+        "Desulforudaceae": 1,
+        "Fermentibacteraceae": 1,
+        "Gp22-AA2": 1,
+        "HRBIN16": 1,
+        "Halothermotrichaceae": 1,
+        "Mycobacteriaceae": 1,
+        "SZUA-182": 1,
+        "SZUA-252": 1,
+        "Sphaerochaetaceae": 1,
+        "Synergistaceae": 1,
+        "Thermosediminibacteraceae": 1,
+        "UBA5734": 1,
+        "UBA8248": 1
+    },
+    "midas_f_2362": {
+        "JABDQX01": 3,
+        "Thioglobaceae": 1,
+        "Vampirovibrionaceae": 1
+    },
+    "midas_f_269": {
+        "Enterobacteriaceae": 3,
+        "BMS3ABIN01": 2,
+        "UBA2241": 2,
+        "UBA2279": 2,
+        "Gaiellaceae": 1,
+        "Mycobacteriaceae": 1,
+        "Streptomycetaceae": 1
+    },
+    "midas_f_3016": {
+        "UBA2279": 3,
+        "Geobacteraceae": 1,
+        "UBA8131": 1
+    },
+    "midas_f_3438": {
+        "PWPN01": 2,
+        "UBA1845": 2,
+        "UTPLA1": 2
+    },
+    "midas_f_3498": {
+        "Moorellaceae": 4,
+        "DSM-45169": 1,
+        "DTU012": 1,
+        "Nostocaceae": 1
+    },
+    "midas_f_4245": {
+        "": 1,
+        "Enterobacteriaceae": 1,
+        "JAAYZQ01": 1,
+        "UBA1429": 1,
+        "VGOG01": 1
+    },
+    "midas_f_5": {
+        "Pseudonocardiaceae": 14,
+        "Microbacteriaceae": 13,
+        "Geodermatophilaceae": 11,
+        "S36-B12": 7,
+        "Acidothermaceae": 4,
+        "FW305-bin1": 4,
+        "Nakamurellaceae": 4,
+        "Cyanobiaceae": 3,
+        "Demequinaceae": 3,
+        "Antricoccaceae": 1,
+        "Beutenbergiaceae": 1,
+        "CAIYMF01": 1,
+        "Cellulomonadaceae": 1,
+        "Enterobacteriaceae": 1,
+        "Kineosporiaceae": 1
+    },
+    "midas_f_54": {
+        "CAG-138": 4,
+        "GCA-900066905": 2,
+        "Muribaculaceae": 2,
+        "Saccharofermentanaceae": 2,
+        "Syntrophobotulaceae": 2,
+        "UBA5734": 2,
+        "Sphaerochaetaceae": 1
+    },
+    "midas_f_6187": {
+        "DSM-45169": 11,
+        "Thermaerobacteraceae": 11,
+        "Thermoactinomycetaceae": 5,
+        "HRBIN16": 4,
+        "Nostocaceae": 4,
+        "Desulfohalotomaculaceae": 2,
+        "Caldalkalibacillaceae": 1,
+        "Rubeoparvulaceae": 1,
+        "UBA9615": 1,
+        "ZCTH02-B6": 1
+    },
+    "midas_f_6325": {
+        "UBA2279": 3,
+        "Eggerthellaceae": 2,
+        "UBA8131": 2,
+        "Geobacteraceae": 1
+    },
+    "midas_f_765": {
+        "Humimicrobiaceae": 2,
+        "RBG-13-55-18": 2,
+        "Anoxymicrobiaceae": 1,
+        "UBA2279": 1
+    },
+    "midas_f_90201": {
+        "Clostridiaceae": 3,
+        "CAG-917": 2,
+        "CAG-138": 1,
+        "CAG-314": 1,
+        "Enterobacteriaceae": 1,
+        "RUG350": 1,
+        "UBA932": 1
+    },
+    "midas_f_92558": {
+        "UBA3495": 2,
+        "Enterobacteriaceae": 1,
+        "JAADDB01": 1,
+        "JAAYZQ01": 1,
+        "NAK82": 1,
+        "UBA2985": 1,
+        "UBA8231": 1
+    },
+    "midas_f_92789": {
+        "Enterobacteriaceae": 4,
+        "Solirubrobacteraceae": 2,
+        "Capsulimonadaceae": 1,
+        "Dormibacteraceae": 1,
+        "FW602-bin16": 1,
+        "Gaiellaceae": 1,
+        "Pelotomaculaceae": 1,
+        "Streptomycetaceae": 1,
+        "Thermincolaceae": 1,
+        "UBA2241": 1,
+        "WHTK01": 1
+    },
+    "midas_f_93128": {
+        "Syntrophomonadaceae": 3,
+        "Mycobacteriaceae": 2,
+        "DTU052": 1,
+        "Enterobacteriaceae": 1,
+        "Moorellaceae": 1,
+        "Syntrophobotulaceae": 1,
+        "Thermincolaceae": 1,
+        "UBA3569": 1,
+        "UBA8346": 1
+    }
+}
